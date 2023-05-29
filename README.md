@@ -10,3 +10,5 @@
 + Each collection of sites can be dragged and dropped in any order, modified and deleted with one click, no need to edit the readme file like Github
 + ![3949](https://github.com/shartoo/awesome-collections/assets/5716282/1615bf0f-0eb9-459e-9675-0e2bd796cbcd)
 
+### Join Us
+ Discord channel : https://discord.gg/mXQFKRJ6mn
